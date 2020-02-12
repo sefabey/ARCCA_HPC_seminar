@@ -1,0 +1,424 @@
+{
+    "quoted_status": {
+        "extended_tweet": {
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "thejc.com/news/uk-news/a…",
+                        "indices": [
+                            180,
+                            203
+                        ],
+                        "expanded_url": "https://www.thejc.com/news/uk-news/attempt-to-initiate-no-confidence-vote-against-board-of-deputies-vp-for-nation-state-law-statement-1.470401",
+                        "url": "https://t.co/Q8tYGCaML8"
+                    }
+                ],
+                "hashtags": [],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "full_text": "A Board of Deputies vice president is facing a possible no confidence vote, opponents claim her criticism of Israel’s Nation State Law breaches the IHRA definition of antisemitism https://t.co/Q8tYGCaML8",
+            "display_text_range": [
+                0,
+                203
+            ]
+        },
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_status_id": null,
+        "created_at": "Sun Sep 30 16:16:50 +0000 2018",
+        "in_reply_to_user_id_str": null,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+        "retweet_count": 254,
+        "retweeted": false,
+        "geo": null,
+        "filter_level": "low",
+        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "id_str": "1046433700165177344",
+        "in_reply_to_user_id": null,
+        "favorite_count": 267,
+        "id": 1046433700165177300,
+        "text": "A Board of Deputies vice president is facing a possible no confidence vote, opponents claim her criticism of Israel… https://t.co/sNQRCaqaF4",
+        "place": null,
+        "lang": "en",
+        "quote_count": 40,
+        "favorited": false,
+        "possibly_sensitive": false,
+        "coordinates": null,
+        "truncated": true,
+        "reply_count": 28,
+        "entities": {
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "expanded_url": "https://twitter.com/i/web/status/1046433700165177344",
+                    "url": "https://t.co/sNQRCaqaF4"
+                }
+            ],
+            "hashtags": [],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "contributors": null,
+        "user": {
+            "utc_offset": null,
+            "friends_count": 3701,
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1043988703364943872/DBmm16k__normal.jpg",
+            "listed_count": 881,
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+            "default_profile_image": false,
+            "favourites_count": 74938,
+            "description": "🐥",
+            "created_at": "Sun Jul 28 19:10:05 +0000 2013",
+            "is_translator": false,
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+            "protected": false,
+            "screen_name": "AbiWilks",
+            "id_str": "1628552390",
+            "profile_link_color": "FF691F",
+            "translator_type": "none",
+            "id": 1628552390,
+            "geo_enabled": false,
+            "profile_background_color": "000000",
+            "lang": "en-gb",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "verified": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1043988703364943872/DBmm16k__normal.jpg",
+            "time_zone": null,
+            "url": null,
+            "contributors_enabled": false,
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1628552390/1527963069",
+            "statuses_count": 3420,
+            "follow_request_sent": null,
+            "followers_count": 60443,
+            "profile_use_background_image": false,
+            "default_profile": false,
+            "following": null,
+            "name": "Abi Wilkinson",
+            "location": "Washington, DC",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "notifications": null
+        }
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Wed Oct 03 04:01:50 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "retweeted_status": {
+        "extended_tweet": {
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "twitter.com/AbiWilks/statu…",
+                        "indices": [
+                            203,
+                            226
+                        ],
+                        "expanded_url": "https://twitter.com/AbiWilks/status/1046433700165177344",
+                        "url": "https://t.co/gh0i5qSoOw"
+                    }
+                ],
+                "hashtags": [],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "full_text": "The definition of antisemitism adopted by the US State Department and IHRA has been applied to the Senior VP of the main representative body of British Jews -- for criticizing Israel's nation-state law. https://t.co/gh0i5qSoOw",
+            "display_text_range": [
+                0,
+                202
+            ]
+        },
+        "quoted_status": {
+            "extended_tweet": {
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "thejc.com/news/uk-news/a…",
+                            "indices": [
+                                180,
+                                203
+                            ],
+                            "expanded_url": "https://www.thejc.com/news/uk-news/attempt-to-initiate-no-confidence-vote-against-board-of-deputies-vp-for-nation-state-law-statement-1.470401",
+                            "url": "https://t.co/Q8tYGCaML8"
+                        }
+                    ],
+                    "hashtags": [],
+                    "user_mentions": [],
+                    "symbols": []
+                },
+                "full_text": "A Board of Deputies vice president is facing a possible no confidence vote, opponents claim her criticism of Israel’s Nation State Law breaches the IHRA definition of antisemitism https://t.co/Q8tYGCaML8",
+                "display_text_range": [
+                    0,
+                    203
+                ]
+            },
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_status_id": null,
+            "created_at": "Sun Sep 30 16:16:50 +0000 2018",
+            "in_reply_to_user_id_str": null,
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+            "retweet_count": 254,
+            "retweeted": false,
+            "geo": null,
+            "filter_level": "low",
+            "in_reply_to_screen_name": null,
+            "is_quote_status": false,
+            "id_str": "1046433700165177344",
+            "in_reply_to_user_id": null,
+            "favorite_count": 267,
+            "id": 1046433700165177300,
+            "text": "A Board of Deputies vice president is facing a possible no confidence vote, opponents claim her criticism of Israel… https://t.co/sNQRCaqaF4",
+            "place": null,
+            "lang": "en",
+            "quote_count": 40,
+            "favorited": false,
+            "possibly_sensitive": false,
+            "coordinates": null,
+            "truncated": true,
+            "reply_count": 28,
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ],
+                        "expanded_url": "https://twitter.com/i/web/status/1046433700165177344",
+                        "url": "https://t.co/sNQRCaqaF4"
+                    }
+                ],
+                "hashtags": [],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "contributors": null,
+            "user": {
+                "utc_offset": null,
+                "friends_count": 3701,
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1043988703364943872/DBmm16k__normal.jpg",
+                "listed_count": 881,
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+                "default_profile_image": false,
+                "favourites_count": 74938,
+                "description": "🐥",
+                "created_at": "Sun Jul 28 19:10:05 +0000 2013",
+                "is_translator": false,
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+                "protected": false,
+                "screen_name": "AbiWilks",
+                "id_str": "1628552390",
+                "profile_link_color": "FF691F",
+                "translator_type": "none",
+                "id": 1628552390,
+                "geo_enabled": false,
+                "profile_background_color": "000000",
+                "lang": "en-gb",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_text_color": "333333",
+                "verified": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1043988703364943872/DBmm16k__normal.jpg",
+                "time_zone": null,
+                "url": null,
+                "contributors_enabled": false,
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1628552390/1527963069",
+                "statuses_count": 3420,
+                "follow_request_sent": null,
+                "followers_count": 60443,
+                "profile_use_background_image": false,
+                "default_profile": false,
+                "following": null,
+                "name": "Abi Wilkinson",
+                "location": "Washington, DC",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "notifications": null
+            }
+        },
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_status_id": null,
+        "created_at": "Wed Oct 03 01:47:07 +0000 2018",
+        "in_reply_to_user_id_str": null,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+        "quoted_status_id": 1046433700165177300,
+        "retweet_count": 32,
+        "retweeted": false,
+        "geo": null,
+        "filter_level": "low",
+        "in_reply_to_screen_name": null,
+        "is_quote_status": true,
+        "id_str": "1047301994116014080",
+        "in_reply_to_user_id": null,
+        "favorite_count": 26,
+        "id": 1047301994116014100,
+        "text": "The definition of antisemitism adopted by the US State Department and IHRA has been applied to the Senior VP of the… https://t.co/Ml2XR5ZGzT",
+        "place": null,
+        "quoted_status_permalink": {
+            "expanded": "https://twitter.com/AbiWilks/status/1046433700165177344",
+            "display": "twitter.com/AbiWilks/statu…",
+            "url": "https://t.co/gh0i5qSoOw"
+        },
+        "lang": "en",
+        "quote_count": 6,
+        "favorited": false,
+        "possibly_sensitive": false,
+        "coordinates": null,
+        "truncated": true,
+        "reply_count": 1,
+        "entities": {
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "expanded_url": "https://twitter.com/i/web/status/1047301994116014080",
+                    "url": "https://t.co/Ml2XR5ZGzT"
+                }
+            ],
+            "hashtags": [],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "display_text_range": [
+            0,
+            140
+        ],
+        "quoted_status_id_str": "1046433700165177344",
+        "contributors": null,
+        "user": {
+            "utc_offset": null,
+            "friends_count": 586,
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/498519395191107584/G2yE74gC_normal.jpeg",
+            "listed_count": 290,
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "default_profile_image": false,
+            "favourites_count": 598,
+            "description": "Director, Arab-Israeli Project @CrisisGroup. Contributor @nybooks, @lrb. Author of The Only Language They Understand: Forcing Compromise in Israel and Palestine",
+            "created_at": "Thu Jun 25 16:18:41 +0000 2009",
+            "is_translator": false,
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "protected": false,
+            "screen_name": "NathanThrall",
+            "id_str": "50689310",
+            "profile_link_color": "0B4B39",
+            "translator_type": "none",
+            "id": 50689310,
+            "geo_enabled": true,
+            "profile_background_color": "E9EFF2",
+            "lang": "en",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "verified": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/498519395191107584/G2yE74gC_normal.jpeg",
+            "time_zone": null,
+            "url": "http://www.nathanthrall.com/",
+            "contributors_enabled": false,
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/50689310/1489342601",
+            "statuses_count": 457,
+            "follow_request_sent": null,
+            "followers_count": 6639,
+            "profile_use_background_image": true,
+            "default_profile": false,
+            "following": null,
+            "name": "Nathan Thrall",
+            "location": null,
+            "profile_sidebar_fill_color": "DDEEF6",
+            "notifications": null
+        }
+    },
+    "quoted_status_id": 1046433700165177300,
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": true,
+    "id_str": "1047335895144300545",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1047335895144300500,
+    "text": "RT @NathanThrall: The definition of antisemitism adopted by the US State Department and IHRA has been applied to the Senior VP of the main…",
+    "place": null,
+    "quoted_status_permalink": {
+        "expanded": "https://twitter.com/AbiWilks/status/1046433700165177344",
+        "display": "twitter.com/AbiWilks/statu…",
+        "url": "https://t.co/gh0i5qSoOw"
+    },
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1538539310619",
+    "reply_count": 0,
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "user_mentions": [
+            {
+                "indices": [
+                    3,
+                    16
+                ],
+                "screen_name": "NathanThrall",
+                "id_str": "50689310",
+                "name": "Nathan Thrall",
+                "id": 50689310
+            }
+        ],
+        "symbols": []
+    },
+    "quoted_status_id_str": "1046433700165177344",
+    "contributors": null,
+    "user": {
+        "utc_offset": null,
+        "friends_count": 5337,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/888055120755339266/CwOolzh__normal.jpg",
+        "listed_count": 972,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+        "default_profile_image": false,
+        "favourites_count": 8820,
+        "description": "Executive Director, Middle East and North Africa Division, Human Rights Watch",
+        "created_at": "Wed Nov 26 17:36:09 +0000 2008",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+        "protected": false,
+        "screen_name": "sarahleah1",
+        "id_str": "17654763",
+        "profile_link_color": "FF0000",
+        "translator_type": "none",
+        "id": 17654763,
+        "geo_enabled": true,
+        "profile_background_color": "BADFCD",
+        "lang": "en",
+        "profile_sidebar_border_color": "F2E195",
+        "profile_text_color": "0C3E53",
+        "verified": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/888055120755339266/CwOolzh__normal.jpg",
+        "time_zone": null,
+        "url": "http://www.hrw.org",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17654763/1466970265",
+        "statuses_count": 46924,
+        "follow_request_sent": null,
+        "followers_count": 44607,
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "following": null,
+        "name": "Sarah Leah Whitson",
+        "location": "New York, NY",
+        "profile_sidebar_fill_color": "FFF7CC",
+        "notifications": null
+    }
+}
