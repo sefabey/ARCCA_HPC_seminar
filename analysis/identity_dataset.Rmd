@@ -1,0 +1,116 @@
+---
+title: "Identity Dataset, 2016-2020"
+author: "Sefa Ozalp"
+date: "2020-02-12"
+output: workflowr::wflow_html
+editor_options:
+  chunk_output_type: console
+---
+
+## Introduction
+
+```{r, message=FALSE}
+
+library(tidyverse)
+```
+
+
+# Meta Dataset
+```{r, message=F}
+json_files <- fs::dir_ls(here::here("/data"), glob="*.csv") %>% 
+  map_dfr(read_csv) %>% 
+  mutate(size=fs::as_fs_bytes(size)) %>% 
+  rmarkdown::paged_table()
+
+json_files %>% 
+  nrow()
+
+json_files %>% 
+  rmarkdown::paged_table()
+
+```
+
+## Disk Space used bu Raw Json Files
+```{r}
+
+disk_sp <- json_files %>% 
+  summarise(disk_size=sum(size))
+```
+
+
+## Metadata Summary Overlook
+```{r}
+json_files %>% 
+  skimr::skim() %>% 
+  knitr::kable()
+```
+
+## Min and Max File Sizes
+```{r}
+json_files %>% 
+  select(size) %>% 
+  filter(size>1) %>% 
+  summarise(max= max(size), min=min(size))
+  
+```
+
+## Distribution of file sizes
+```{r, dist_filesizes, fig.height=5, fig.width=8 }
+json_files %>% 
+  select(size) %>% 
+  ggplot(aes(size))+
+  geom_histogram(bins  = 50)+
+  hrbrthemes::theme_ipsum_rc()+
+  labs(title = "Distribution of file sizes of the Twitter identity dataset",
+       subtitle="Total size of the dataset= 6.62T", 
+       caption= "Sefa Ozalp, HateLab, 2020",
+       x="size on disk, in KBs")
+```
+
+
+
+```{r}
+json_file <- here::here("/data/tweets2018-10-03-05-00.jsonl")
+
+fs::file_info(json_file) %>% 
+  select(size, everything()) %>% 
+  rmarkdown::paged_table()
+  
+
+```
+
+# Rough extrapolation of the larger datasize
+
+```{r,cache=TRUE}
+
+tictoc::tic()
+json_parsed <- ndjson::stream_in(json_file)
+tictoc::toc()
+
+```
+
+
+```{r}
+json_parsed %>% nrow()
+json_parsed %>% 
+  colnames() 
+```
+
+## Mean tweet size on disk
+```{r}
+mean_tweet_size= fs::file_info(json_file) %>% 
+  select(size) %>% 
+  mutate(mean_tw_size= size/(json_parsed %>% nrow()) ) %>% 
+  select(mean_tw_size)
+
+mean_tweet_size
+```
+
+## Rough estimate of tweet count
+```{r}
+disk_sp
+mean_tweet_size
+6.62*1024*1024*1024/6.32
+```
+
+
